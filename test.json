@@ -1,0 +1,25 @@
+[
+    {
+        "type": "wfp",
+        "beam": {
+            "h": 500,
+            "bf": 300,
+            "tf": 20,
+            "tw": 8,
+            "z": 3619867.15,
+            "fy": 240,
+            "fu": 340
+        },
+        "column": {
+            "d": 400,
+            "t": 20,
+            "fy": 240,
+            "fu": 340,
+            "z": 0
+        },
+        "loadWidth": 2,
+        "beamLenght": 8,
+        "deadLoad": 5.7,
+        "liveLoad": 6
+    }
+]
